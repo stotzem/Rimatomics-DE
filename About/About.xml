@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+    <packageId>keitetsu.Rimatomics-DE</packageId>
+    <name>Dubs Rimatomics Deutsch</name>
+    <description>
+        Adds a German translation to the mod "Dubs Rimatomics" from Dubwise.
+
+        Fügt der Mod "Dubs Rimatomics" von Dubwise eine deutsche Übersetzung hinzu.
+    </description>
+    <author>keitetsu</author>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <modDependencies>
+        <li>
+            <packageId>Dubwise.Rimatomics</packageId>
+            <displayName>Rimatomics</displayName>
+            <downloadUrl>https://github.com/Dubwise56/Rimatomics/wiki</downloadUrl>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/1127530465</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>Dubwise.Rimatomics</li>
+    </loadAfter>
+</ModMetaData>
