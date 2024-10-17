@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Mannedreactorconsole>Bemannte Reaktorkonsole</Mannedreactorconsole>
+    <PoolLoading>Laden</PoolLoading>
+    <PoolUnloading>Entladen</PoolUnloading>
+    <RimatomicsValveLabel>Ventilschalter</RimatomicsValveLabel>
+    <RimatomicsValveLabelDesc>Umschalten des Ventils auf offen oder geschlossen</RimatomicsValveLabelDesc>
+    <SetCamoMode>Tarnmuster umschalten</SetCamoMode>
+    <Showresearchbutton>Zeige Forschungstab</Showresearchbutton>
+    <ShowresearchbuttonDesc>Füge den Rimatomics Forschungstab in der Hauptleiste hinzu. Kann auch von jedem Forschungstisch aus aufgerufen werden.</ShowresearchbuttonDesc>
+    <nuclearFuelAllowNew>Erlaube neue Brennstäbe</nuclearFuelAllowNew>
+    <nuclearFuelAllowUsed>Erlaube gebrauchte Brennstäbe</nuclearFuelAllowUsed>
+</LanguageData>
