@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <BigTurbine.description>Eine durch Dampf angetriebene Turbine, die einen Generator antreibt, um Elektrizität zu erzeugen. Die Zeus-Turbine hat eine maximale Leistung von 1 Megawatt.</BigTurbine.description>
+    <BigTurbine.label>Zeus-Turbine</BigTurbine.label>
+    <CoolingRadiator.description>Kleine Luftkühler, die für die Kühlung von kleinen Kernreaktoren ausgelegt sind, wenn Ressourcen oder Platz begrenzt sind.</CoolingRadiator.description>
+    <CoolingRadiator.label>Luftradiatoren</CoolingRadiator.label>
+    <CoolingTower.description>Sehr große Luftkühler, die für die Bereitstellung großer Mengen an Kühlung für Kernreaktoren ausgelegt sind, wenn keine natürlichen Wasserquellen verfügbar sind.</CoolingTower.description>
+    <CoolingTower.label>Kühlturm</CoolingTower.label>
+    <CoolingWater.description>Bietet große Mengen an Kühlung für Kernreaktoren, indem kaltes Wasser aus Flüssen, Seen oder Ozeanen verwendet wird.</CoolingWater.description>
+    <CoolingWater.label>Kühlwassereinheit</CoolingWater.label>
+    <ReactorCoreA.description>Thermalreaktorkern mit einer Kapazität von 21 Brennelementen. Ein Reaktorkern enthält die Brennstoffkomponenten, in denen die Kernreaktionen stattfinden und Wärme erzeugt wird.</ReactorCoreA.description>
+    <ReactorCoreA.label>Reaktortyp A</ReactorCoreA.label>
+    <ReactorCoreB.description>Ein fortschrittliches Brutreaktordesign, das mehr spaltbares Material erzeugen kann, als es verbraucht.</ReactorCoreB.description>
+    <ReactorCoreB.label>Reaktortyp X</ReactorCoreB.label>
+    <ReactorCoreC.description>Ein massiver, fortschrittlicher Brutreaktor, der mehr spaltbares Material erzeugen kann, als er verbraucht.</ReactorCoreC.description>
+    <ReactorCoreC.label>Reaktortyp V</ReactorCoreC.label>
+    <RimatomicsRTG.description>Elektrischer Generator, der ein Netzwerk von Thermoelementen nutzt, um die durch den Zerfall eines geeigneten radioaktiven Materials erzeugte Wärme in Elektrizität umzuwandeln.</RimatomicsRTG.description>
+    <RimatomicsRTG.label>R.T.G</RimatomicsRTG.label>
+    <Transformer.description>Reduziert die in Hochspannungsleitungen verwendete Spannung auf das Niveau, das von Stromleitungen genutzt wird.</Transformer.description>
+    <Transformer.label>Hochspannungstransformator</Transformer.label>
+    <Turbine.description>Eine durch Dampf angetriebene Turbine, die einen Generator antreibt, um Elektrizität zu erzeugen. Die Thor-Turbine hat eine maximale Leistung von 100 Kilowatt.</Turbine.description>
+    <Turbine.label>Thor-Turbine</Turbine.label>
+</LanguageData>
