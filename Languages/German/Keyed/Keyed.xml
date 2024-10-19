@@ -1,13 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+    <AutothrotOff>Automatische Drosselung deaktiviert für {0}</AutothrotOff>
+    <AutothrotOn>Automatische Drosselung aktiviert für {0}</AutothrotOn>
+    <AutothrotRange>Das Netz-Überschuss muss sich innerhalb von +/- 5000W befinden, um aktiviert zu werden</AutothrotRange>
+    <CoreIdMismatch>Reaktor- und Konsolen-ID stimmen nicht überein, jeder Kern benötigt eine eigene Konsole mit einer eindeutigen ID für die automatische Drosselung</CoreIdMismatch>
+    <FuelLifeRange>{0} Brennstofflebensdauer</FuelLifeRange>
     <Mannedreactorconsole>Bemannte Reaktorkonsole</Mannedreactorconsole>
+    <MannedreactorconsoleDesc>Reaktorkonsolen müssen von einer Pawn bemannt sein, damit das Steuerfenster geöffnet wird. Andernfalls kann es über einen Knopf geöffnet werden</MannedreactorconsoleDesc>
     <PoolLoading>Laden</PoolLoading>
     <PoolUnloading>Entladen</PoolUnloading>
+    <ReactorAlert>Reaktor-Alarm!</ReactorAlert>
     <RimatomicsValveLabel>Ventilschalter</RimatomicsValveLabel>
     <RimatomicsValveLabelDesc>Umschalten des Ventils auf offen oder geschlossen</RimatomicsValveLabelDesc>
     <SetCamoMode>Tarnmuster umschalten</SetCamoMode>
     <Showresearchbutton>Zeige Forschungstab</Showresearchbutton>
-    <ShowresearchbuttonDesc>Füge den Rimatomics Forschungstab in der Hauptleiste hinzu. Kann auch von jedem Forschungstisch aus aufgerufen werden.</ShowresearchbuttonDesc>
+    <ShowresearchbuttonDesc>Füge den Forschungstab von Rimatomics in der Hauptleiste hinzu. Kann auch von jedem Forschungstisch aus aufgerufen werden.</ShowresearchbuttonDesc>
     <nuclearFuelAllowNew>Erlaube neue Brennstäbe</nuclearFuelAllowNew>
     <nuclearFuelAllowUsed>Erlaube gebrauchte Brennstäbe</nuclearFuelAllowUsed>
 </LanguageData>

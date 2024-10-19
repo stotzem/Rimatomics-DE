@@ -8,6 +8,10 @@
     <CoolingTower.label>Kühlturm</CoolingTower.label>
     <CoolingWater.description>Bietet große Mengen an Kühlung für Kernreaktoren, indem kaltes Wasser aus Flüssen, Seen oder Ozeanen verwendet wird.</CoolingWater.description>
     <CoolingWater.label>Kühlwassereinheit</CoolingWater.label>
+    <RadiationDetector.description>Detektor zur Messung von Strahlung.</RadiationDetector.description>
+    <RadiationDetector.label>Strahlungsdetektor</RadiationDetector.label>
+    <ReactorControl.description>Computersystem zur Steuerung von Kernreaktoren. Schicke einen Kolonisten zur Station, um die Steuerungen zu bedienen. Mehrere Steuerungen können gleichzeitig geöffnet werden.</ReactorControl.description>
+    <ReactorControl.label>Reaktorkonsole</ReactorControl.label>
     <ReactorCoreA.description>Thermalreaktorkern mit einer Kapazität von 21 Brennelementen. Ein Reaktorkern enthält die Brennstoffkomponenten, in denen die Kernreaktionen stattfinden und Wärme erzeugt wird.</ReactorCoreA.description>
     <ReactorCoreA.label>Reaktortyp A</ReactorCoreA.label>
     <ReactorCoreB.description>Ein fortschrittliches Brutreaktordesign, das mehr spaltbares Material erzeugen kann, als es verbraucht.</ReactorCoreB.description>
@@ -20,4 +24,6 @@
     <Transformer.label>Hochspannungstransformator</Transformer.label>
     <Turbine.description>Eine durch Dampf angetriebene Turbine, die einen Generator antreibt, um Elektrizität zu erzeugen. Die Thor-Turbine hat eine maximale Leistung von 100 Kilowatt.</Turbine.description>
     <Turbine.label>Thor-Turbine</Turbine.label>
+    <storagePool.description>Ein Lagerbecken zur sicheren Aufbewahrung von Brennstäben. Klicke mit einem ausgewählten Kolonisten rechts, um mit dem Becken zu interagieren und den zu entfernenden Brennstoff auszuwählen.</storagePool.description>
+    <storagePool.label>Lagerbecken</storagePool.label>
 </LanguageData>
