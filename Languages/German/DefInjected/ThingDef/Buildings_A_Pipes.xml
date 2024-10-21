@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <HighVoltage.description>Kabel für den Transport von Hochspannung von den Turbinen zu den Transformatoren. Kann unter Wänden und anderen Gebäuden verlegt werden.</HighVoltage.description>
+    <HighVoltage.label>Hochspannungskabel</HighVoltage.label>
+    <controllerLoom.description>Kabel zur Übertragung von Signalen zwischen einem Reaktorkern und einer Steuerkonsole. Kann unter Wänden und anderen Gebäuden verlegt werden.</controllerLoom.description>
+    <controllerLoom.label>Signalkabel</controllerLoom.label>
+    <coolantValve.description>Öffnet oder schließt Verbindungen zwischen den Kühlmittelleitungen.</coolantValve.description>
+    <coolantValve.label>Kühlmittelventil</coolantValve.label>
+    <coolingPipe.description>Leitungen für das Pumpen von Kühlmittel von der Turbine zu den Kühlsystemen. Kann unter Wänden und anderen Gebäuden verlegt werden.</coolingPipe.description>
+    <coolingPipe.label>Kühlmittelleitung</coolingPipe.label>
+    <steamPipe.description>Leitungen für das Pumpen von Hochdruckdampf vom Reaktor zu den Turbinen. Kann unter Wänden und anderen Gebäuden verlegt werden.</steamPipe.description>
+    <steamPipe.label>Dampfleitung</steamPipe.label>
+    <steamValve.description>Öffnet oder schließt Verbindungen zwischen den Dampfleitungen.</steamValve.description>
+    <steamValve.label>Dampfventil</steamValve.label>
+    <waterPipe.description>Leitungen für das Pumpen von kaltem Wasser von der Turbine zum Reaktorkern. Kann unter Wänden und anderen Gebäuden verlegt werden.</waterPipe.description>
+    <waterPipe.label>Kaltwasserleitung</waterPipe.label>
+    <waterValve.description>Öffnet oder schließt Verbindungen zwischen den Kaltwasserleitungen.</waterValve.description>
+    <waterValve.label>Kaltwasserventil</waterValve.label>
+</LanguageData>
