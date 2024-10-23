@@ -2,17 +2,12 @@
 <LanguageData>
     <NuclearResearchBench.description>Enthält Rimatomics-Forschungsprojekte. Benötigt Strom.</NuclearResearchBench.description>
     <NuclearResearchBench.label>Rimatomics-Forschungstisch</NuclearResearchBench.label>
-
     <PlutoniumProcessor.description>Eine Maschine, die Chemikalien verwendet, um spaltbares Plutonium aus verbrauchtem Kernbrennstoff zu extrahieren.</PlutoniumProcessor.description>
     <PlutoniumProcessor.label>Plutoniumprozessor</PlutoniumProcessor.label>
-
     <ResearchReactor.description>Forschungsreaktor.</ResearchReactor.description>
     <ResearchReactor.label>Forschungsreaktor</ResearchReactor.label>
-
     <TableRimatomicsMachining.description>Eine Werkstation zum Zusammenbau von Rimatomics-Technologien.</TableRimatomicsMachining.description>
     <TableRimatomicsMachining.label>Rimatomics-Bearbeitungstisch</TableRimatomicsMachining.label>
-
     <WeaponsBench.description>Waffenforschungstisch.</WeaponsBench.description>
     <WeaponsBench.label>Waffenforschungstisch</WeaponsBench.label>
-
 </LanguageData>

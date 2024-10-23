@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <DU_Blastdoor.description>Sehr starke Panzertüren, die mit abgereichertem Uran verstärkt sind und vollständigen Schutz vor Strahlung bieten.</DU_Blastdoor.description>
+    <DU_Blastdoor.label>DU-Panzertür</DU_Blastdoor.label>
+    <RadiationShielding.description>Sehr starke Wand, die mit abgereichertem Uran verstärkt ist und vollständigen Schutz vor Strahlung bietet.</RadiationShielding.description>
+    <RadiationShielding.label>Verstärkte DU-Wand</RadiationShielding.label>
+    <ReactorSacrophagus.label>Sarkophag Typ A</ReactorSacrophagus.label>
+    <ReactorSacrophagusB.label>Sarkophag Typ X</ReactorSacrophagusB.label>
+    <ReactorSacrophagusC.label>Sarkophag Typ V</ReactorSacrophagusC.label>
+</LanguageData>
