@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <ADS_Dish.description>ADS-Schüssel.</ADS_Dish.description>
+    <ADS_Dish.label>ADS-Schüssel</ADS_Dish.label>
+    <HEL_Laser.description>HEL-Laser.</HEL_Laser.description>
+    <HEL_Laser.label>HEL-Laser</HEL_Laser.label>
+    <Marauder_Railgun.description>Marauder-Railgun.</Marauder_Railgun.description>
+    <Marauder_Railgun.label>Marauder-Railgun</Marauder_Railgun.label>
+    <Obelisk_Laser.description>Obelisk-Laser.</Obelisk_Laser.description>
+    <Obelisk_Laser.label>Obelisk-Laser</Obelisk_Laser.label>
+    <PPC.description>Der RA-P3 Pulsed Power Capacitor speichert große Mengen Energie in eine Ultrakondensatorbank, welche durch kompatible Rimatomics-Energiewaffen in einem einzelnen Puls entladen werden kann.</PPC.description>
+    <PPC.label>PPC</PPC.label>
+    <PPCADS.description>Das RA-22 Aktiv-Verweigerungssystem (ADS) ist eine nicht-tödliche, gerichtete Energiewaffe zur Bereichsverweigerung und Massenkontrolle. Es erhitzt die Haut von menschlichen Zielen, wodurch diese in Panik geraten und fliehen. Benötigt keine Sichtlinie. Eine bemannte SACS ist erforderlich.</PPCADS.description>
+    <PPCADS.label>ADS</PPCADS.label>
+    <PPCHEL.description>Der RA-702 Hochenergielaser (HEL) zerstört feindliche Flugprojektile wie Mörsergranaten. Wenn ein Mörser abgefeuert wird, prüft das System, ob das Geschoss den HEL-Bereich durchqueren wird, und versucht, das Ziel zu verfolgen und zu feuern, sobald es in Reichweite ist.</PPCHEL.description>
+    <PPCHEL.label>HEL</PPCHEL.label>
+    <PPCMarauder.description>Der RA-3b Marauder ist eine mehrläufige koaxiale Plasma-Railgun-Plattform. Große elektromagnetische Impulse feuern eine Salve beschleunigter Plasmatoroide ab, was explosive, strahlungsemittierende Einschläge verursacht. Eine bemannte SACS ist erforderlich.</PPCMarauder.description>
+    <PPCMarauder.label>Marauder</PPCMarauder.label>
+    <PPCObelisk.description>Der RA-2152-X Obelisk ist eine Energiewaffe, die einen fokussierten Festkörperlaser verwendet, um Ziele zu verdampfen. 100 % Genauigkeit, große Reichweite und verheerende Kraft. Automatisches Zielen und Feuern. Eine bemannte SACS ist für manuelles Zielen erforderlich.</PPCObelisk.description>
+    <PPCObelisk.label>Obelisk</PPCObelisk.label>
+    <PPCRailgun.description>Die RA-1802D Punisher ist eine Railgun-Plattform mit einem 25-Schuss-Magazin, die große elektromagnetische Impulse nutzt, um Sabot-Geschosse auf extreme Geschwindigkeiten und Entfernungen zu beschleunigen. Erfordert Sichtlinie. Feuerauftrag benötigt keine Sichtlinie. Eine bemannte SACS ist erforderlich.</PPCRailgun.description>
+    <PPCRailgun.label>Punisher</PPCRailgun.label>
+    <PPCTeslaCoil.description>Die RA-42T Teslaspule liefert einen gewaltigen elektrischen Lichtbogen auf ihre Ziele, was schwere Verbrennungen oder den Tod zur Folge hat. 100 % Genauigkeit, mittlere Reichweite, entzündet Ziele. Automatisches Zielen und Feuern. Eine bemannte SACS ist für manuelles Zielen erforderlich.</PPCTeslaCoil.description>
+    <PPCTeslaCoil.label>Teslaspule</PPCTeslaCoil.label>
+    <PPCWeaponsConsole.description>Die RA-c85 halb automatisierte Kommandostation, erforderlich für alle Rimatomics-Energiewaffen. Manche Waffen benötigen bemannte Bedienung, um vollständig funktionsfähig zu sein.</PPCWeaponsConsole.description>
+    <PPCWeaponsConsole.label>SACS</PPCWeaponsConsole.label>
+    <RadarDish.description>Das RA-92 Zielerfassungs- und Kommunikationssystem verwendet eine Kombination aus Technologien, um Land- und Luftziele zu verfolgen und mit Waffensystemen zu kommunizieren.</RadarDish.description>
+    <RadarDish.label>TACS</RadarDish.label>
+    <Railgun_Cannon.description>Punisher-Railgun.</Railgun_Cannon.description>
+    <Railgun_Cannon.label>Punisher-Railgun</Railgun_Cannon.label>
+    <RimatomicsShieldGenerator.description>Der RA-S4 Sentinel ist ein Energieschild, der eine Kombination aus Lasern, Mikrowellen und Lichtbogenausladungen nutzt, um Plasmafelder zu erzeugen, die physische oder energiebasierte Projektilwaffen abfangen können. Ein Sensor erkennt eine Schockwellen-verursachende Veranstaltung, bestimmt Richtung und Entfernung der Schockwelle relativ zu einem geschützten Ziel und berechnet einen Einsatzplan, der das Ereignis durch Reflexion, Brechung, Dispersion, Absorption und Impulsübertragung abschwächt.</RimatomicsShieldGenerator.description>
+    <RimatomicsShieldGenerator.label>Sentinel</RimatomicsShieldGenerator.label>
+    <Tesla_Coil_Arc_Discharger.description>Entladungseinheit der Teslaspule.</Tesla_Coil_Arc_Discharger.description>
+    <Tesla_Coil_Arc_Discharger.label>Entladungseinheit der Teslaspule</Tesla_Coil_Arc_Discharger.label>
+</LanguageData>
