@@ -3,7 +3,7 @@
     <BigTurbine.description>Eine durch Dampf angetriebene Turbine, die einen Generator antreibt, um Elektrizität zu erzeugen. Die Zeus-Turbine hat eine maximale Leistung von 1 Megawatt.</BigTurbine.description>
     <BigTurbine.label>Zeus-Turbine</BigTurbine.label>
     <CoolingRadiator.description>Kleine Luftkühler, die für die Kühlung von kleinen Kernreaktoren ausgelegt sind, wenn Ressourcen oder Platz begrenzt sind.</CoolingRadiator.description>
-    <CoolingRadiator.label>Luftradiatoren</CoolingRadiator.label>
+    <CoolingRadiator.label>Luftradiator</CoolingRadiator.label>
     <CoolingTower.description>Sehr große Luftkühler, die für die Bereitstellung großer Mengen an Kühlung für Kernreaktoren ausgelegt sind, wenn keine natürlichen Wasserquellen verfügbar sind.</CoolingTower.description>
     <CoolingTower.label>Kühlturm</CoolingTower.label>
     <CoolingWater.description>Bietet große Mengen an Kühlung für Kernreaktoren, indem kaltes Wasser aus Flüssen, Seen oder Ozeanen verwendet wird.</CoolingWater.description>

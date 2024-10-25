@@ -6,7 +6,7 @@
     <CoreIdMismatch>Reaktor- und Konsolen-ID stimmen nicht überein, jeder Kern benötigt eine eigene Konsole mit einer eindeutigen ID für die automatische Drosselung</CoreIdMismatch>
     <FuelLifeRange>{0} Brennstofflebensdauer</FuelLifeRange>
     <Mannedreactorconsole>Bemannte Reaktorkonsole</Mannedreactorconsole>
-    <MannedreactorconsoleDesc>Reaktorkonsolen müssen von einer Pawn bemannt sein, damit das Steuerfenster geöffnet wird. Andernfalls kann es über einen Knopf geöffnet werden</MannedreactorconsoleDesc>
+    <MannedreactorconsoleDesc>Reaktorkonsolen müssen von einem Pawn bemannt sein, damit das Steuerfenster geöffnet wird. Andernfalls kann es über einen Knopf geöffnet werden</MannedreactorconsoleDesc>
     <PoolLoading>Laden</PoolLoading>
     <PoolUnloading>Entladen</PoolUnloading>
     <ReactorAlert>Reaktor-Alarm!</ReactorAlert>
