@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <RimatomicsActivate.description>Eine Sonde wurde in der Umlaufbahn entdeckt! Sie scheint Signale zur Oberfläche zu senden; vielleicht können wir ihre Nachricht entschlüsseln.</RimatomicsActivate.description>
+    <RimatomicsActivate.discoveredLetterText>Du stellst eine Verbindung zur Sonde her, und eine aufgezeichnete Nachricht beginnt abzuspielen.\n\nJemand mit dem schmierigen Auftreten eines Gebrauchtbionikverkäufers behauptet, eine Handelsfraktion namens „Rimatomics“ zu vertreten.\n\nWährend er sein Verkaufsgespräch hält, fluten Exabytes von Daten in die Konsole. Er erklärt, dass er Baupläne für den Bau eines Rimatomics-Forschungstisches sendet, die du nutzen kannst, um Pläne für ihre Technologie zu erwerben oder Handelsschiffe anzufordern.\n\nÜberprüfe den Rimatomics-Reiter im Architektenmenü.</RimatomicsActivate.discoveredLetterText>
+    <RimatomicsActivate.discoveredLetterTitle>Rimatomics freigeschaltet!</RimatomicsActivate.discoveredLetterTitle>
+    <RimatomicsActivate.label>Rimatomics</RimatomicsActivate.label>
+</LanguageData>

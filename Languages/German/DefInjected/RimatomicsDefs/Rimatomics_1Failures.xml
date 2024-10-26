@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Failure_AcidLeak.description>Die Anlage verliert Säure.</Failure_AcidLeak.description>
+    <Failure_AcidLeak.label>Säureleck</Failure_AcidLeak.label>
+    <Failure_ArcDischarge.description>Ein Hochspannungslichtbogen ist aus der Anlage ausgetreten.</Failure_ArcDischarge.description>
+    <Failure_ArcDischarge.label>Lichtbogenentladung</Failure_ArcDischarge.label>
+    <Failure_BlindingFlash.description>Ein blendender Lichtblitz ist aus der Anlage ausgetreten.</Failure_BlindingFlash.description>
+    <Failure_BlindingFlash.label>Blendender Blitz</Failure_BlindingFlash.label>
+    <Failure_FacilityBreakdown.description>Die Anlage ist während der Forschung ausgefallen.</Failure_FacilityBreakdown.description>
+    <Failure_FacilityBreakdown.label>Anlagenstörung</Failure_FacilityBreakdown.label>
+    <Failure_GasLeak.description>Die Anlage verliert giftiges Gas.</Failure_GasLeak.description>
+    <Failure_GasLeak.label>Gasleck</Failure_GasLeak.label>
+    <Failure_LaserDischarge.description>Eine Laserentladung ist aus der Anlage ausgetreten.</Failure_LaserDischarge.description>
+    <Failure_LaserDischarge.label>Laserentladung</Failure_LaserDischarge.label>
+    <Failure_MicrowaveLeak.description>Die Anlage gibt Mikrowellenstrahlung ab.</Failure_MicrowaveLeak.description>
+    <Failure_MicrowaveLeak.label>Mikrowellenleck</Failure_MicrowaveLeak.label>
+    <Failure_Overvoltage.description>Die Anlage hat eine Stromspitze erlitten und ein Feuer ausgelöst.</Failure_Overvoltage.description>
+    <Failure_Overvoltage.label>Überspannung</Failure_Overvoltage.label>
+    <Failure_RadiationLeak.description>Die Anlage gibt eine kurze Strahlungsexplosion ab.</Failure_RadiationLeak.description>
+    <Failure_RadiationLeak.label>Strahlungsleck</Failure_RadiationLeak.label>
+    <Failure_ShortCircuit.description>Die Anlage hat einen Kurzschluss erlitten. Schalten Sie sofort den Strom ab, sonst wird das Gebäude zerstört!</Failure_ShortCircuit.description>
+    <Failure_ShortCircuit.label>Kurzschluss</Failure_ShortCircuit.label>
+</LanguageData>
