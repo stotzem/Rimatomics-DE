@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+    <!-- Radiation detectors -->
     <Geigercounter.ProjTypeLabel>Passive Fähigkeit</Geigercounter.ProjTypeLabel>
     <Geigercounter.ResearchDesc>Es ist wichtig, Kolonisten vor gefährlichen Strahlungsdosen zu schützen. Rimatomics bietet tragbare Geräte zur Erkennung ionisierender Strahlung an. Alle Kolonisten werden mit Strahlungsdetektoren ausgestattet, sodass ionisierende Ereignisse hörbare Klicks erzeugen. Die Dosisrate wird als Text angezeigt.</Geigercounter.ResearchDesc>
     <Geigercounter.ResearchDescDisc>Alle Kolonisten sind jetzt mit Strahlungsdetektoren ausgestattet. Ionisierende Ereignisse erzeugen hörbare Klicks, und die Dosisrate wird als Text mit einer Stärke von 0-5 angezeigt.</Geigercounter.ResearchDescDisc>
     <Geigercounter.ResearchLabel>Tragbare Strahlungsdetektoren</Geigercounter.ResearchLabel>
+
+    <!-- Radiation suits -->
+    <RadSuits.ProjTypeLabel>Bekleidung</RadSuits.ProjTypeLabel>
+    <RadSuits.ResearchDesc>Schützen Sie Ihre Kolonisten vor Strahlung mit abgeschirmter Kleidung. Noch wichtiger ist, dass Strahlenschutzanzüge den direkten Kontakt mit oder das Einatmen von radioaktiven Partikeln oder Gasen verhindern.</RadSuits.ResearchDesc>
+    <RadSuits.ResearchDescDisc>Sie können nun Ihre eigenen Strahlenschutzanzüge und MOPP-Anzüge an einer Rimatomics-Werkbank herstellen.</RadSuits.ResearchDescDisc>
+    <RadSuits.ResearchLabel>Strahlenschutzanzüge</RadSuits.ResearchLabel>
+
+    <!-- Nuclear research -->
+    <NuclearResearch.ProjTypeLabel>Forschungseinrichtung</NuclearResearch.ProjTypeLabel>
+    <NuclearResearch.ResearchDesc>Bevor deine Kolonisten vollständige Kernreaktoren oder andere nuklearbasierte Technologien bauen können, müssen sie zunächst diese Technologien mit einem Forschungsreaktor erforschen und sich darin ausbilden.</NuclearResearch.ResearchDesc>
+    <NuclearResearch.ResearchDescDisc>Fortgeschrittenere Forschung ist jetzt verfügbar.</NuclearResearch.ResearchDescDisc>
+    <NuclearResearch.ResearchLabel>Forschungsreaktor</NuclearResearch.ResearchLabel>
 </LanguageData>

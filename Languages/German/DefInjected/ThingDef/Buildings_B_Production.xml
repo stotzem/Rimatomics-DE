@@ -6,8 +6,8 @@
     <PlutoniumProcessor.label>Plutoniumprozessor</PlutoniumProcessor.label>
     <ResearchReactor.description>Forschungsreaktor.</ResearchReactor.description>
     <ResearchReactor.label>Forschungsreaktor</ResearchReactor.label>
-    <TableRimatomicsMachining.description>Ein Fabrikationstisch zum Zusammenbau von Rimatomics-Technologien.</TableRimatomicsMachining.description>
-    <TableRimatomicsMachining.label>Rimatomics-Fabrikationstisch</TableRimatomicsMachining.label>
+    <TableRimatomicsMachining.description>Eine Werkbank zum Zusammenbau von Rimatomics-Technologien.</TableRimatomicsMachining.description>
+    <TableRimatomicsMachining.label>Rimatomics-Werkbank</TableRimatomicsMachining.label>
     <WeaponsBench.description>Waffenforschungstisch.</WeaponsBench.description>
     <WeaponsBench.label>Waffenforschungstisch</WeaponsBench.label>
 </LanguageData>

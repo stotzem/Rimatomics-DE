@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+    <!-- Radiation detectors -->
     <Geigercounter1.description>Ein erfahrener Forscher muss die Konstruktionspläne studieren und lernen, wie die Strahlungsdetektoren funktionieren.</Geigercounter1.description>
     <Geigercounter1.label>Strahlungsdetektoren erforschen</Geigercounter1.label>
     <Geigercounter2.description>Ein erfahrener Handwerker muss herausfinden, wie man Strahlungsdetektoren für alle Kolonisten mit den verfügbaren Ressourcen und Werkzeugen herstellt und wartet.</Geigercounter2.description>
     <Geigercounter2.label>Komponenten bewerten</Geigercounter2.label>
+
+    <!-- Radiation suits -->
+    <RadiationSuits1.description>Ein erfahrener Forscher muss die Entwürfe studieren und verstehen, wie die Strahlenschutzanzüge funktionieren, bevor wir mit der eigenen Herstellung beginnen können.</RadiationSuits1.description>
+    <RadiationSuits1.label>Strahlenschutzanzüge erforschen</RadiationSuits1.label>
+    <RadiationSuits2.description>Ein erfahrener Handwerker muss Pläne für die Herstellung von Strahlenschutzanzügen unter Verwendung der verfügbaren Ressourcen und Werkzeuge entwerfen.</RadiationSuits2.description>
+    <RadiationSuits2.label>Komponenten bewerten</RadiationSuits2.label>
+
+    <!-- Nuclear research -->
+    <NuclearResearch1.description>Ein erfahrener Forscher muss die Entwürfe studieren und verstehen, wie der Forschungsreaktor funktioniert, bevor wir unseren eigenen bauen können.</NuclearResearch1.description>
+    <NuclearResearch1.label>Reaktortechnologie erforschen</NuclearResearch1.label>
+    <NuclearResearchPractical.description>Reaktorkontrollsoftware installieren und Trainingseinheiten durchführen, während die Fähigkeiten des Reaktors getestet werden.</NuclearResearchPractical.description>
+    <NuclearResearchPractical.label>Forschen und trainieren</NuclearResearchPractical.label>
 </LanguageData>
