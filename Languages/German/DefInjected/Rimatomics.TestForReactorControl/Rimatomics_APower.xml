@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <BuildControlComputer.description>Baue eine Reaktorkonsole und verbinde ihn mit dem Kernreaktor über einen Signalkabel. Diese Konsole wird verwendet, um die Reaktorkerne zu steuern. Sie können mit spezifischen Kernen gepaart werden, indem eine ID zugewiesen wird, sodass Verbindungen von Kern zu Kern verkettet werden können. Schicke einen Kolonisten zur Bedienung der Konsole, um auf die Steuerung zuzugreifen. Mehrere Steuerungen können gleichzeitig geöffnet sein.</BuildControlComputer.description>
+    <BuildControlComputer.label>Einen Reaktorkontrollcomputer bauen</BuildControlComputer.label>
+</LanguageData>

@@ -17,4 +17,10 @@
     <NuclearResearch.ResearchDesc>Bevor deine Kolonisten vollständige Kernreaktoren oder andere nuklearbasierte Technologien bauen können, müssen sie zunächst diese Technologien mit einem Forschungsreaktor erforschen und sich darin ausbilden.</NuclearResearch.ResearchDesc>
     <NuclearResearch.ResearchDescDisc>Fortgeschrittenere Forschung ist jetzt verfügbar.</NuclearResearch.ResearchDescDisc>
     <NuclearResearch.ResearchLabel>Forschungsreaktor</NuclearResearch.ResearchLabel>
+
+    <!-- Nuclear reactor -->
+    <NuclearReactor.ProjTypeLabel>Energie</NuclearReactor.ProjTypeLabel>
+    <NuclearReactor.ResearchDesc>Das Rimatomics-Kernkraftwerk ist ein skalierbares Design, das es ermöglicht, mehrere Reaktoren, Turbinengeneratoren und Kühllösungen in einem einzigen System zu betreiben. Jeder Reaktor kann mehr als 200 kW Leistung erzeugen, wenn er vollständig betankt ist. Reaktoren können auch zur Plutoniumproduktion genutzt werden.</NuclearReactor.ResearchDesc>
+    <NuclearReactor.ResearchDescDisc>Du bist nicht mehr darauf beschränkt, nur eine Einheit von jedem Teil des Reaktorsystems zu bauen. Du kannst das System erweitern, indem du weitere Reaktorkerne, Turbinen und Kühler hinzufügst, und mit dem Rimatomics-Forschungstisch weiterführende Verbesserungen erforschen.</NuclearReactor.ResearchDescDisc>
+    <NuclearReactor.ResearchLabel>Kernenergie</NuclearReactor.ResearchLabel>
 </LanguageData>

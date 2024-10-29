@@ -17,4 +17,14 @@
     <NuclearResearch1.label>Reaktortechnologie erforschen</NuclearResearch1.label>
     <NuclearResearchPractical.description>Reaktorkontrollsoftware installieren und Trainingseinheiten durchführen, während die Fähigkeiten des Reaktors getestet werden.</NuclearResearchPractical.description>
     <NuclearResearchPractical.label>Forschen und trainieren</NuclearResearchPractical.label>
+
+    <!-- Nuclear reactor -->
+    <BuildReactorCore.description>Baue das Grundgerüst für einen Kernreaktor. Beachte, dass nach Fertigstellung des Rahmens weitere Arbeiten erforderlich sind, um den Kern fertigzustellen. Es wird dringend empfohlen, den Kern in einem abgeschirmten Raum zu bauen, um die Kolonisten während der Brennstoffübertragung zu schützen. Die Dicke der Wände und die Trefferpunkte der verwendeten Materialien bestimmen, wie viel Strahlung absorbiert wird. Es ist ratsam, um den Kern herum Platz zu lassen, da die Häufigkeit von Strahlungsschäden mit zunehmender Entfernung abnimmt.</BuildReactorCore.description>
+    <BuildReactorCore.label>Einen Reaktorkern bauen</BuildReactorCore.label>
+    <NuclearReactorExperiments.description>Ein erfahrener Forscher muss mit dem Forschungsreaktor experimentieren. Dieser Schritt birgt die Gefahr katastrophaler Fehler!</NuclearReactorExperiments.description>
+    <NuclearReactorExperiments.label>Mit Forschungsreaktoren experimentieren (hohes Risiko)</NuclearReactorExperiments.label>
+    <NuclearReactorResearchPhase.description>Ein erfahrener Forscher muss die Designs der Reaktoren studieren und sich auf den Bau unseres ersten Leistungsreaktors vorbereiten.</NuclearReactorResearchPhase.description>
+    <NuclearReactorResearchPhase.label>Reaktoren erforschen</NuclearReactorResearchPhase.label>
+    <TestReactor.description>Baue oder kaufe Kernbrennstäbe und lade sie in den Reaktorkern, indem du die Slots im Menü der Reaktorkonsolen auswählst. Lade mindestens zwei Brennelemente nebeneinander, um eine Kettenreaktion zu erzeugen, verwende die Konsole, um den Kern zu starten, und ziehe dann die Steuerstäbe auf 8 % oder höher hoch, um Daten zu sammeln.</TestReactor.description>
+    <TestReactor.label>Den Kernreaktor testen</TestReactor.label>
 </LanguageData>

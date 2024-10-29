@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <BuildReactorCooling.description>Baue eines der verfügbaren Kühlsysteme und verbinde es mit einer Turbine über ein Kühlmittelrohr. Es gibt drei verfügbare Kühlsysteme: Die Kühlwassereinheit benötigt Flüsse oder große Gewässer, Kühltürme benötigen viel Energie und Platz und müssen draußen aufgestellt werden, und Radiatoren haben die niedrigste Kühlleistung, sind aber kleiner, billiger und können drinnen aufgestellt werden.</BuildReactorCooling.description>
+    <BuildReactorCooling.label>Ein Kühlsystem bauen</BuildReactorCooling.label>
+</LanguageData>

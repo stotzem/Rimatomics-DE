@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <BuildTransformer.description>Baue einen Leistungstransformator und verbinde ihn mit der Turbine über Hochspannungskabel. Ein einzelner Transformator kann bis zu 200 kW Leistung aus einer Turbine in nutzbaren Strom umwandeln. Mehrere Transformatoren können verwendet werden, um verschiedene Stromnetze zu versorgen. Die Leistungseinstellungen ermöglichen es, die Ausgangsleistung zwischen den Netzen zu verteilen.</BuildTransformer.description>
+    <BuildTransformer.label>Einen Leistungstransformator bauen</BuildTransformer.label>
+</LanguageData>

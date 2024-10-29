@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <TestForCore.description>Verbinde den Reaktorkern mit dem Turbinengenerator, indem du ein Dampfrohr und ein Kaltwasserohr dazwischen baust. Turbinen sind nicht gefährlich und können außerhalb abgeschirmter Räume gebaut werden, müssen aber drinnen stehen.</TestForCore.description>
+    <TestForCore.label>Reaktor mit der Turbine verbinden</TestForCore.label>
+</LanguageData>
