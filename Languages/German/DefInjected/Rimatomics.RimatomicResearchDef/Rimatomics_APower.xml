@@ -23,4 +23,10 @@
     <NuclearReactor.ResearchDesc>Das Rimatomics-Kernkraftwerk ist ein skalierbares Design, das es ermöglicht, mehrere Reaktoren, Turbinengeneratoren und Kühllösungen in einem einzigen System zu betreiben. Jeder Reaktor kann mehr als 200 kW Leistung erzeugen, wenn er vollständig betankt ist. Reaktoren können auch zur Plutoniumproduktion genutzt werden.</NuclearReactor.ResearchDesc>
     <NuclearReactor.ResearchDescDisc>Du bist nicht mehr darauf beschränkt, nur eine Einheit von jedem Teil des Reaktorsystems zu bauen. Du kannst das System erweitern, indem du weitere Reaktorkerne, Turbinen und Kühler hinzufügst, und mit dem Rimatomics-Forschungstisch weiterführende Verbesserungen erforschen.</NuclearReactor.ResearchDescDisc>
     <NuclearReactor.ResearchLabel>Kernenergie</NuclearReactor.ResearchLabel>
+
+    <!-- Fuel reprocessing -->
+    <Plutonium.ProjTypeLabel>Produktion</Plutonium.ProjTypeLabel>
+    <Plutonium.ResearchDesc>Plutonium entsteht im verbrauchten Kernbrennstoff. Verwendeter Brennstoff kann zur Extraktion von Plutonium aufbereitet werden, um MOX-Brennstoff, radioisotopische Thermogeneratoren und Atomwaffen herzustellen. Der Prozess erfordert Sprit und produziert Fässer mit abgereichertem Uran und nuklearen Abfällen.</Plutonium.ResearchDesc>
+    <Plutonium.ResearchDescDisc>Du kannst nun verbrauchten Kernbrennstoff wiederaufbereiten.\n\nDie Menge an Material, die durch die Aufbereitung entsteht, basiert auf dem Umwandlungsverhältnis des Brennstoffs mit einem Maximum von 0,6x bei normalen Reaktoren und 1,2x bei aufgerüsteten Brutreaktoren. Dieser Wert kann eingesehen werden, indem du mit der Maus über die Brennstoffplätze im Menü der Reaktorkonsole fährst.\n\nDer Prozess des Einladens des verbrauchten Brennstoffs in den Prozessor erfordert strahlungssichere Anzüge und Abschirmung vom Rest der Kolonie. Plutonium wird in einem Schutzbehälter gelagert, der sicher zu handhaben ist.</Plutonium.ResearchDescDisc>
+    <Plutonium.ResearchLabel>Brennstoffaufbereitung</Plutonium.ResearchLabel>
 </LanguageData>

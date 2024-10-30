@@ -27,4 +27,12 @@
     <NuclearReactorResearchPhase.label>Reaktoren erforschen</NuclearReactorResearchPhase.label>
     <TestReactor.description>Baue oder kaufe Kernbrennstäbe und lade sie in den Reaktorkern, indem du die Slots im Menü der Reaktorkonsolen auswählst. Lade mindestens zwei Brennelemente nebeneinander, um eine Kettenreaktion zu erzeugen, verwende die Konsole, um den Kern zu starten, und ziehe dann die Steuerstäbe auf 8 % oder höher hoch, um Daten zu sammeln.</TestReactor.description>
     <TestReactor.label>Den Kernreaktor testen</TestReactor.label>
+
+    <!-- Fuel reprocessing -->
+    <Plutonium1.description>Ein erfahrener Forscher muss untersuchen, wie die Plutoniumverarbeitung funktioniert, und das Design eines Plutoniumprozessors fertigstellen.</Plutonium1.description>
+    <Plutonium1.label>Plutoniumverarbeitung erforschen</Plutonium1.label>
+    <Plutonium2.description>Baue einen Plutoniumprozessor. Um die Expositionszeit beim Umgang mit radioaktivem Brennstoff zu reduzieren, sollte der Plutoniumprozessor in kurzer Distanz zu Reaktoren oder Lagern für verbrauchten Brennstoff platziert werden. Für Arbeiter, die radioaktiven Brennstoff bewegen, sind Strahlenschutzanzüge erforderlich.</Plutonium2.description>
+    <Plutonium2.label>Einen Plutoniumprozessor bauen</Plutonium2.label>
+    <Plutonium3.description>Experimentiere mit dem Plutoniumprozessor, um sicherzustellen, dass er korrekt funktioniert.</Plutonium3.description>
+    <Plutonium3.label>Mit dem Plutoniumprozessor experimentieren (hohes Risiko)</Plutonium3.label>
 </LanguageData>
