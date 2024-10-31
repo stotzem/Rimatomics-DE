@@ -35,4 +35,22 @@
     <Plutonium2.label>Einen Plutoniumprozessor bauen</Plutonium2.label>
     <Plutonium3.description>Experimentiere mit dem Plutoniumprozessor, um sicherzustellen, dass er korrekt funktioniert.</Plutonium3.description>
     <Plutonium3.label>Mit dem Plutoniumprozessor experimentieren (hohes Risiko)</Plutonium3.label>
+
+    <!-- Advanced nuclear power -->
+    <AdvReactor1.description>Ein erfahrener Forscher muss mit dem Forschungsreaktor experimentieren. Dieser Schritt birgt ein Risiko katastrophaler Fehler!</AdvReactor1.description>
+    <AdvReactor1.label>Mit Forschungsreaktoren experimentieren (hohes Risiko)</AdvReactor1.label>
+    <AdvReactor2.description>Ein erfahrener Forscher muss das Design der fortschrittlichen Reaktoren fertigstellen, bevor sie für den Bau bereit sind.</AdvReactor2.description>
+    <AdvReactor2.label>Kernreaktoren erforschen</AdvReactor2.label>
+    <AdvReactor3.description>Baue einen fortschrittlichen Reaktorkern. Es wird dringend empfohlen, den Kern in einem abgeschirmten Raum zu bauen, um Kolonisten während des Brennstofftransfers zu schützen.</AdvReactor3.description>
+    <AdvReactor3.label>Einen fortschrittlichen Reaktorkern bauen</AdvReactor3.label>
+    <AdvReactor4.description>Schalte den fortschrittlichen Reaktor ein und beginne mit der Stromproduktion, um Daten zu sammeln.</AdvReactor4.description>
+    <AdvReactor4.label>Den Kernreaktor testen</AdvReactor4.label>
+
+    <!-- RTG -->
+    <RTG1.description>Ein erfahrener Forscher muss das Design studieren und verstehen, wie RTGs funktionieren, bevor wir anfangen können, unsere eigenen herzustellen.</RTG1.description>
+    <RTG1.label>RTGs erforschen</RTG1.label>
+    <RTG2.description>Stelle Plutonium her, das zur Herstellung eines RTG benötigt wird. Dazu muss abgebrannter Kernbrennstoff aus einem Reaktor in einem Plutoniumprozessor verarbeitet werden.</RTG2.description>
+    <RTG2.label>Plutonium herstellen</RTG2.label>
+    <RTG3.description>Ein erfahrener Handwerker muss planen, wie wir die zur Herstellung eines RTG benötigten Komponenten aus unseren verfügbaren Ressourcen herstellen können.</RTG3.description>
+    <RTG3.label>Komponenten bewerten</RTG3.label>
 </LanguageData>
