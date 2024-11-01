@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- Control Rod Actuators -->
+    <ResearchControlRodActuators.ResearchLabel>Kontrollstab-Aktuatoren</ResearchControlRodActuators.ResearchLabel>
+    <ResearchControlRodActuators.stats.0>Erhöht die Reaktionsgeschwindigkeit der Kontrollstäbe</ResearchControlRodActuators.stats.0>
+    <ResearchControlRodActuators.ProjTypeLabel>Upgrade</ResearchControlRodActuators.ProjTypeLabel>
+    <ResearchControlRodActuators.ResearchDesc>Erhöht die Geschwindigkeit der Kontrollstäbe, was die Reaktionsfähigkeit bei Flussänderungen und die Abschaltgeschwindigkeit verbessert.</ResearchControlRodActuators.ResearchDesc>
+    <ResearchControlRodActuators.ResearchDescDisc>Du kannst nun die Kontrollstab-Aktuatoren an der Rimatomics-Werkbank herstellen. Um sie in einen Reaktorkern zu installieren, wähle den Kern aus und aktiviere die Kontrollstab-Aktuatoren. Der Reaktor muss zuvor heruntergefahren werden, um sie installieren zu können.</ResearchControlRodActuators.ResearchDescDisc>
+</LanguageData>

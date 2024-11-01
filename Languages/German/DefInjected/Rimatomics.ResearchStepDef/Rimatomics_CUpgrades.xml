@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- Control Rod Actuators -->
+    <ControlRodActuators1.description>Experimentiere mit dem Forschungsreaktor und plane Tests, die an einem laufenden Reaktorkern durchgeführt werden können.</ControlRodActuators1.description>
+    <ControlRodActuators1.label>Kernreaktoren erforschen</ControlRodActuators1.label>
+    <ControlRodActuators2.description>Teste das Kontrollstabsystem, indem du einen SCRAM bei vollem Brennstoffstand und 100 % Leistung durchführst.</ControlRodActuators2.description>
+    <ControlRodActuators2.label>Führe 2 SCRAMs des Reaktors durch</ControlRodActuators2.label>
+    <ControlRodActuators3.description>Analysiere die gesammelten Daten und finalisiere die Entwürfe für die neuen Kontrollstab-Aktuatoren.</ControlRodActuators3.description>
+    <ControlRodActuators3.label>Kernreaktoren erforschen</ControlRodActuators3.label>
+</LanguageData>
