@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!-- Energy Weapons -->
+    <EnergyWeapons1.label>Forschung an Energiewaffen</EnergyWeapons1.label>
+    <EnergyWeapons1.description>Ein erfahrener Forscher muss lernen, wie die Energiewaffen von Rimatomics funktionieren.</EnergyWeapons1.description>
+    <ConstructWeaponBenchStep.label>Waffenforschungstisch bauen</ConstructWeaponBenchStep.label>
+    <ConstructWeaponBenchStep.description>Baue einen Waffenforschungstisch, ausgestattet mit spezieller Ausrüstung für das Prototyping und die Erprobung einer Vielzahl von Energiewaffen. Der Tisch ist eine erforderliche Einrichtung für die meisten Energiewaffenforschungen und -tests. Es wird empfohlen, ihn in einem sicheren, feuerfesten Labor zu bauen.</ConstructWeaponBenchStep.description>
+    <EnergyWeapExperiments.label>Experimente mit Energiewaffen durchführen</EnergyWeapExperiments.label>
+    <EnergyWeapExperiments.description>Forscher müssen Experimente mit dem neuen Waffenforschungstisch durchführen und die Grundlage für zukünftige Projekte legen. Die Rimatomics Energiewaffen sind keine Plug-and-Play-Technologie und müssen getestet und verstanden werden.\nExperimentierschritte können gefährlich sein.</EnergyWeapExperiments.description>
+    <EnergyWeapons5.label>Baue eine Semi-Automated Command Station (SACS)</EnergyWeapons5.label>
+    <EnergyWeapons5.description>Baue eine SACS. Diese Konsole ist ein Zielerfassungscomputer, der für alle Energiewaffen erforderlich ist. Sie vernetzt sich mit allen Rimatomics Energiewaffen, die sich im selben Stromnetz befinden, und weist Ziele zu, indem sie die Onboard-Sensoren der Waffen mit dem Zielerfassungssystem (TACS) kombiniert.\n\nDas Hauptdisplay zeigt einen Echtzeit-Boden- und Projektiltracker sowie eine Anzeige für die insgesamt gespeicherte PPC-Energie im Netz.\nEinige Waffen benötigen eine bemannte Konsole, um zu funktionieren. Dies wird im Inspektions-Tab der Waffe angezeigt.</EnergyWeapons5.description>
+    <EnergyWeapons6.label>Baue ein Zielerfassungs- und Kommunikationssystem (TACS)</EnergyWeapons6.label>
+    <EnergyWeapons6.description>Baue ein TACS. Das System nutzt eine Kombination aus Technologien, um Boden- und Luftziele zu verfolgen. Dazu gehören lebende oder robotische Ziele, Projektile wie Mörsergranaten oder Railgun-Sabot-Geschosse sowie die Langstreckenverfolgung ballistischer Raketen. Die Informationen werden an eine SACS-Konsole geleitet, wo Ziele ausgewählt und Tracking-Informationen angezeigt werden können.</EnergyWeapons6.description>
+    <EnergyWeapons7.label>Baue einen Pulsed Power Container (PPC)</EnergyWeapons7.label>
+    <EnergyWeapons7.description>Baue einen Pulsed Power Container (PPC) und verbinde ihn mit dem gleichen Stromnetz wie die SACS.\n\nDiese Ultra-Kondensatoren sind viel effizienter als normale Batterien und für die großen Stromstöße ausgelegt, die Rimatomics Energiewaffen benötigen. Sie sind in einem wasserdichten Behälter untergebracht und werden wie eine Standardbatterie mit überschüssigem Strom aufgeladen. Wir empfehlen die Verwendung von Transformatoren, um isolierte Stromnetze für PPCs und Waffensysteme zu schaffen.</EnergyWeapons7.description>
+</LanguageData>
