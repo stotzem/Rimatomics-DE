@@ -13,4 +13,14 @@
     <EnergyWeapons6.description>Baue ein TACS. Das System nutzt eine Kombination aus Technologien, um Boden- und Luftziele zu verfolgen. Dazu gehören lebende oder robotische Ziele, Projektile wie Mörsergranaten oder Railgun-Sabot-Geschosse sowie die Langstreckenverfolgung ballistischer Raketen. Die Informationen werden an eine SACS-Konsole geleitet, wo Ziele ausgewählt und Tracking-Informationen angezeigt werden können.</EnergyWeapons6.description>
     <EnergyWeapons7.label>Baue einen Pulsed Power Container (PPC)</EnergyWeapons7.label>
     <EnergyWeapons7.description>Baue einen Pulsed Power Container (PPC) und verbinde ihn mit dem gleichen Stromnetz wie die SACS.\n\nDiese Ultra-Kondensatoren sind viel effizienter als normale Batterien und für die großen Stromstöße ausgelegt, die Rimatomics Energiewaffen benötigen. Sie sind in einem wasserdichten Behälter untergebracht und werden wie eine Standardbatterie mit überschüssigem Strom aufgeladen. Wir empfehlen die Verwendung von Transformatoren, um isolierte Stromnetze für PPCs und Waffensysteme zu schaffen.</EnergyWeapons7.description>
+
+    <!-- ADS -->
+    <ADS1.description>Ein erfahrener Forscher muss die Designs studieren und lernen, wie die ADS funktioniert, bevor wir unsere eigene bauen können.</ADS1.description>
+    <ADS1.label>Forschung an der ADS</ADS1.label>
+    <ADS2.description>Forscher müssen Experimente mit dem neuen Waffenforschungstisch durchführen und die Grundlage für zukünftige Projekte legen. Rimatomics Energiewaffen sind keine Plug-and-Play-Technologie und die Technologie muss getestet und verstanden werden.\nExperimentierschritte können gefährlich sein.</ADS2.description>
+    <ADS2.label>Experimente mit Energiewaffen durchführen</ADS2.label>
+    <ADS4.description>Baue eine Prototypversion der ADS. Prototypwaffen haben eine hohe Wahrscheinlichkeit des Scheiterns! Es wird empfohlen, isolierte Stromnetze zu verwenden und einen sicheren Abstand mit angemessener Feuerfestigkeit zu wahren.</ADS4.description>
+    <ADS4.label>Baue einen Prototyp der ADS</ADS4.label>
+    <ADS5.description>Testfeuer die ADS auf lebenden Zielen, um Waffendaten zu sammeln.</ADS5.description>
+    <ADS5.label>Waffendaten sammeln</ADS5.label>
 </LanguageData>

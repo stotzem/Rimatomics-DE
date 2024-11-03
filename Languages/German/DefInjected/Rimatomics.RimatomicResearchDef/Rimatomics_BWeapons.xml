@@ -5,4 +5,9 @@
     <EnergyWeapons.ProjTypeLabel>Forschungsanlage</EnergyWeapons.ProjTypeLabel>
     <EnergyWeapons.ResearchDesc>Rimatomics definiert die Zukunft der Hochenergie-Waffensysteme. Erlange einen dominanten Vorteil auf dem Schlachtfeld mit unseren kampferprobten Zielzuweisern und den Energiewaffen der nächsten Generation. Sie bieten modulare, skalierbare Designs mit 360-Grad-Abdeckung, die feindliche Truppen, Raketen, Mörser und Langstreckenziele identifizieren, verfolgen und abwehren.</EnergyWeapons.ResearchDesc>
     <EnergyWeapons.ResearchDescDisc>Die notwendige Technologie für die Verwendung von Rimatomics Energiewaffen ist jetzt verfügbar, und Waffensysteme können an der Forschungsbank erworben werden.</EnergyWeapons.ResearchDescDisc>
+
+    <!-- ADS -->
+    <ADS.ProjTypeLabel>Energiewaffe</ADS.ProjTypeLabel>
+    <ADS.ResearchDescDisc>Du bist nicht länger darauf beschränkt, nur ein ADS zu bauen, und vorhandene Prototypen sind jetzt kampfbereit.</ADS.ResearchDescDisc>
+    <ADS.ResearchLabel>ADS</ADS.ResearchLabel>
 </LanguageData>
