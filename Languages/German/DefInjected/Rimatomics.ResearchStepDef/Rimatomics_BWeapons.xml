@@ -21,6 +21,16 @@
     <ADS2.label>Experimente mit Energiewaffen durchführen</ADS2.label>
     <ADS4.description>Baue eine Prototypversion der ADS. Prototypwaffen haben eine hohe Wahrscheinlichkeit des Scheiterns! Es wird empfohlen, isolierte Stromnetze zu verwenden und einen sicheren Abstand mit angemessener Feuerfestigkeit zu wahren.</ADS4.description>
     <ADS4.label>Baue einen Prototyp der ADS</ADS4.label>
-    <ADS5.description>Testfeuer die ADS auf lebenden Zielen, um Waffendaten zu sammeln.</ADS5.description>
+    <ADS5.description>Führe Testschüsse mit der Tesla-Spule auf lebende Ziele durch, um Daten zur Waffenleistung zu sammeln.</ADS5.description>
     <ADS5.label>Waffendaten sammeln</ADS5.label>
+
+    <!-- Tesla Coil -->
+    <TeslaCoil1.label>Forschung an Teslaspulen</TeslaCoil1.label>
+    <TeslaCoil1.description>Ein erfahrener Forscher muss die Designs studieren und lernen, wie die Teslaspule funktioniert, bevor wir unsere eigene bauen können.</TeslaCoil1.description>
+    <TeslaCoil2.label>Experimente mit Energiewaffen durchführen</TeslaCoil2.label>
+    <TeslaCoil2.description>Forscher müssen Experimente mit dem neuen Waffenforschungstisch durchführen und die Grundlage für zukünftige Projekte legen. Rimatomics Energiewaffen sind keine Plug-and-Play-Technologie, und die Technologie muss getestet und verstanden werden.\nExperimentierschritte können gefährlich sein.</TeslaCoil2.description>
+    <TeslaCoil4.label>Baue einen Prototyp der Teslaspule</TeslaCoil4.label>
+    <TeslaCoil4.description>Baue eine Prototypversion der Teslaspule. Prototypwaffen haben eine hohe Wahrscheinlichkeit des Scheiterns! Es wird empfohlen, isolierte Stromnetze zu verwenden und einen sicheren Abstand mit angemessener Feuerfestigkeit zu wahren.</TeslaCoil4.description>
+    <TeslaCoil5.label>Waffendaten sammeln</TeslaCoil5.label>
+    <TeslaCoil5.description>Führe Testschüsse mit der Teslaspule auf ausgewählte Ziele durch, um Daten zur Waffenleistung zu sammeln.</TeslaCoil5.description>
 </LanguageData>

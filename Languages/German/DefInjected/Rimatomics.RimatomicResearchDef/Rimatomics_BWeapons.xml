@@ -10,4 +10,9 @@
     <ADS.ProjTypeLabel>Energiewaffe</ADS.ProjTypeLabel>
     <ADS.ResearchDescDisc>Du bist nicht länger darauf beschränkt, nur ein ADS zu bauen, und vorhandene Prototypen sind jetzt kampfbereit.</ADS.ResearchDescDisc>
     <ADS.ResearchLabel>ADS</ADS.ResearchLabel>
+
+    <!-- Tesla Coil -->
+    <TeslaCoil.ResearchLabel>Teslaspule</TeslaCoil.ResearchLabel>
+    <TeslaCoil.ProjTypeLabel>Energiewaffe</TeslaCoil.ProjTypeLabel>
+    <TeslaCoil.ResearchDescDisc>Du bist nicht länger darauf beschränkt, nur eine Teslaspule zu bauen, und vorhandene Prototypen sind jetzt kampfbereit.</TeslaCoil.ResearchDescDisc>
 </LanguageData>
