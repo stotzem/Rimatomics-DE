@@ -15,4 +15,9 @@
     <TeslaCoil.ResearchLabel>Teslaspule</TeslaCoil.ResearchLabel>
     <TeslaCoil.ProjTypeLabel>Energiewaffe</TeslaCoil.ProjTypeLabel>
     <TeslaCoil.ResearchDescDisc>Du bist nicht länger darauf beschränkt, nur eine Teslaspule zu bauen, und vorhandene Prototypen sind jetzt kampfbereit.</TeslaCoil.ResearchDescDisc>
+
+    <!-- HEL -->
+    <HEL.ResearchLabel>HEL</HEL.ResearchLabel>
+    <HEL.ProjTypeLabel>Energiewaffe</HEL.ProjTypeLabel>
+    <HEL.ResearchDescDisc>Du bist nicht mehr darauf beschränkt, nur ein HEL zu bauen, und vorhandene Prototypen sind nun einsatzbereit.</HEL.ResearchDescDisc>
 </LanguageData>

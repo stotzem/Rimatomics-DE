@@ -33,4 +33,14 @@
     <TeslaCoil4.description>Baue eine Prototypversion der Teslaspule. Prototypwaffen haben eine hohe Wahrscheinlichkeit des Scheiterns! Es wird empfohlen, isolierte Stromnetze zu verwenden und einen sicheren Abstand mit angemessener Feuerfestigkeit zu wahren.</TeslaCoil4.description>
     <TeslaCoil5.label>Waffendaten sammeln</TeslaCoil5.label>
     <TeslaCoil5.description>Führe Testschüsse mit der Teslaspule auf ausgewählte Ziele durch, um Daten zur Waffenleistung zu sammeln.</TeslaCoil5.description>
+
+    <!-- HEL -->
+    <HEL1.label>HEL erforschen</HEL1.label>
+    <HEL1.description>Ein erfahrener Forscher muss die Entwürfe studieren und verstehen, wie das HEL funktioniert, bevor wir unser eigenes bauen können.</HEL1.description>
+    <HEL2.label>Mit Energiewaffen experimentieren</HEL2.label>
+    <HEL2.description>Forscher müssen mit der neuen Waffenforschungskonsole Experimente durchführen und die Grundlagen für zukünftige Projekte legen. Rimatomics Energiewaffen sind keine Plug-and-Play-Technologie, und die Technologie muss getestet und verstanden werden.\nExperimentierschritte können gefährlich sein.</HEL2.description>
+    <HEL4.label>Einen HEL-Prototyp bauen</HEL4.label>
+    <HEL4.description>Baue einen Prototyp des HEL. Prototypenwaffen haben ein hohes Ausfallrisiko! Es wird empfohlen, isolierte Stromnetze zu verwenden und ausreichend Sicherheitsabstand mit feuerfestem Schutz einzuhalten.</HEL4.description>
+    <HEL5.label>Waffen-Daten sammeln</HEL5.label>
+    <HEL5.description>Führe Tests mit dem HEL auf Artillerieziele durch, um Daten zur Waffenleistung zu sammeln. Über die Waffenkonsole kannst du die Zielerfassung anpassen, um auch befreundete Geschosse einzubeziehen.</HEL5.description>
 </LanguageData>
