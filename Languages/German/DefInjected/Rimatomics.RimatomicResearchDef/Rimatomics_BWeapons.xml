@@ -20,4 +20,9 @@
     <HEL.ResearchLabel>HEL</HEL.ResearchLabel>
     <HEL.ProjTypeLabel>Energiewaffe</HEL.ProjTypeLabel>
     <HEL.ResearchDescDisc>Du bist nicht mehr darauf beschränkt, nur ein HEL zu bauen, und vorhandene Prototypen sind nun einsatzbereit.</HEL.ResearchDescDisc>
+
+    <!-- Punisher -->
+    <Railgun.ResearchLabel>Punisher</Railgun.ResearchLabel>
+    <Railgun.ProjTypeLabel>Energiewaffe</Railgun.ProjTypeLabel>
+    <Railgun.ResearchDescDisc>Du bist nicht mehr darauf beschränkt, nur einen Punisher zu bauen, und vorhandene Prototypen sind nun einsatzbereit.</Railgun.ResearchDescDisc>
 </LanguageData>
