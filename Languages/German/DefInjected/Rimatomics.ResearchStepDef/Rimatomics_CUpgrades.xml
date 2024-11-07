@@ -7,4 +7,12 @@
     <ControlRodActuators2.label>Führe 2 SCRAMs des Reaktors durch</ControlRodActuators2.label>
     <ControlRodActuators3.description>Analysiere die gesammelten Daten und finalisiere die Entwürfe für die neuen Kontrollstab-Aktuatoren.</ControlRodActuators3.description>
     <ControlRodActuators3.label>Kernreaktoren erforschen</ControlRodActuators3.label>
+
+    <!-- ATOM -->
+    <ThreatDetection1.description>Ein erfahrener Forscher muss eine Reihe von Tests planen, die an einem TACS durchgeführt werden können, um Daten zur Analyse zu sammeln.</ThreatDetection1.description>
+    <ThreatDetection1.label>Bedrohungserkennung erforschen</ThreatDetection1.label>
+    <ThreatDetection2.description>Erfasse Daten von Überfällen. Jedes Mal, wenn du überfallen wirst, werden die Größe und das Ankunftsverfahren analysiert und mit den Sensordaten verglichen, um ein Vorhersagemodell zu erstellen.</ThreatDetection2.description>
+    <ThreatDetection2.label>Daten über Überfälle sammeln</ThreatDetection2.label>
+    <ThreatDetection3.description>Analysiere die gesammelten Daten und finalisiere die Entwürfe für das ATOM.</ThreatDetection3.description>
+    <ThreatDetection3.label>Bedrohungserkennung erforschen</ThreatDetection3.label>
 </LanguageData>

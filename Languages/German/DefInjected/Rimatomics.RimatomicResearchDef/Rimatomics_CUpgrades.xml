@@ -6,4 +6,10 @@
     <ResearchControlRodActuators.ProjTypeLabel>Upgrade</ResearchControlRodActuators.ProjTypeLabel>
     <ResearchControlRodActuators.ResearchDesc>Erhöht die Geschwindigkeit der Kontrollstäbe, was die Reaktionsfähigkeit bei Flussänderungen und die Abschaltgeschwindigkeit verbessert.</ResearchControlRodActuators.ResearchDesc>
     <ResearchControlRodActuators.ResearchDescDisc>Du kannst nun die Kontrollstab-Aktuatoren an der Rimatomics-Werkbank herstellen. Um sie in einen Reaktorkern zu installieren, wähle den Kern aus und aktiviere die Kontrollstab-Aktuatoren. Der Reaktor muss zuvor heruntergefahren werden, um sie installieren zu können.</ResearchControlRodActuators.ResearchDescDisc>
+
+    <!-- ATOM -->
+    <ATOMProject.ProjTypeLabel>Upgrade</ATOMProject.ProjTypeLabel>
+    <ATOMProject.ResearchDesc>Das Advanced Threat Detection-Modul (ATOM) ist ein Upgrade-Modul für das TACS. Bei der Installation erhöht sich der Stromverbrauch erheblich, was die Reichweite und Erfassungskraft steigert und die frühzeitige Erkennung potenzieller Angriffe ermöglicht. Luftangriffe bieten nur wenig Vorwarnzeit, und kleinere Gruppen von Bodeneinheiten sind schwer zu erkennen, aber große Bodenstreitkräfte werden leicht erkannt. Fehlalarme sind möglich, wenn das System in Betrieb ist.</ATOMProject.ResearchDesc>
+    <ATOMProject.ResearchDescDisc>Du kannst jetzt ATOM-Module an der Rimatomics-Werkbank herstellen. Um sie zu installieren, wähle ein TACS und aktiviere die ATOM-Option.\n\nDas ATOM-Modul muss manuell in jedem neuen TACS installiert werden.</ATOMProject.ResearchDescDisc>
+    <ATOMProject.ResearchLabel>ATOM</ATOMProject.ResearchLabel>
 </LanguageData>
