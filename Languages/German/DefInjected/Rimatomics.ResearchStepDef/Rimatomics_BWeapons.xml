@@ -55,4 +55,14 @@
     <Railgun5.description>Führe Tests mit dem Punisher an beliebigen Zielen durch, um Daten zur Waffenleistung zu sammeln. Sabot-Geschosse können an der Rimatomics-Werkbank hergestellt werden.</Railgun5.description>
     <Railgun6.label>Waffendaten sammeln</Railgun6.label>
     <Railgun6.description>Teste die Feuer-Missions-Funktion des Punishers. Sende Kundschafter auf eine andere Karte, wähle dann den Prototyp-Punisher und klicke auf Feuer-Mission.</Railgun6.description>
+
+    <!-- Obelisk -->
+    <Obelisk1.label>Obelisk erforschen</Obelisk1.label>
+    <Obelisk1.description>Ein erfahrener Forscher muss die Entwürfe studieren und verstehen, wie der Obelisk funktioniert, bevor wir unser eigenes Modell bauen können.</Obelisk1.description>
+    <Obelisk2.label>Mit Energiewaffen experimentieren</Obelisk2.label>
+    <Obelisk2.description>Forscher müssen Experimente mit der neuen Waffenforschungskonsole durchführen und die Grundlagen für zukünftige Projekte legen. Rimatomics Energiewaffen sind keine Plug-and-Play-Technologie, und die Technologie muss getestet und verstanden werden.\nExperimentierschritte können gefährlich sein.</Obelisk2.description>
+    <Obelisk4.label>Obelisk-Prototyp bauen</Obelisk4.label>
+    <Obelisk4.description>Baue einen Prototyp des Obelisken. Prototypenwaffen haben ein hohes Ausfallrisiko! Es wird empfohlen, isolierte Stromnetze zu verwenden und ausreichenden Sicherheitsabstand mit feuerfestem Schutz einzuhalten.</Obelisk4.description>
+    <Obelisk5.label>Waffendaten sammeln</Obelisk5.label>
+    <Obelisk5.description>Führe Tests mit dem Obelisken an beliebigen Zielen durch, um Daten zur Waffenleistung zu sammeln.</Obelisk5.description>
 </LanguageData>

@@ -25,4 +25,9 @@
     <Railgun.ResearchLabel>Punisher</Railgun.ResearchLabel>
     <Railgun.ProjTypeLabel>Energiewaffe</Railgun.ProjTypeLabel>
     <Railgun.ResearchDescDisc>Du bist nicht mehr darauf beschränkt, nur einen Punisher zu bauen, und vorhandene Prototypen sind nun einsatzbereit.</Railgun.ResearchDescDisc>
+
+    <!-- Obelisk -->
+    <Obelisk.ResearchLabel>Obelisk</Obelisk.ResearchLabel>
+    <Obelisk.ProjTypeLabel>Energiewaffe</Obelisk.ProjTypeLabel>
+    <Obelisk.ResearchDescDisc>Du bist nicht mehr darauf beschränkt, nur ein Obelisk zu bauen, und vorhandene Prototypen sind nun kampfbereit.</Obelisk.ResearchDescDisc>
 </LanguageData>
