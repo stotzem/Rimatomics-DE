@@ -30,4 +30,9 @@
     <Obelisk.ResearchLabel>Obelisk</Obelisk.ResearchLabel>
     <Obelisk.ProjTypeLabel>Energiewaffe</Obelisk.ProjTypeLabel>
     <Obelisk.ResearchDescDisc>Du bist nicht mehr darauf beschränkt, nur ein Obelisk zu bauen, und vorhandene Prototypen sind nun kampfbereit.</Obelisk.ResearchDescDisc>
+
+    <!-- Marauder -->
+    <Marauder.ResearchLabel>Marauder</Marauder.ResearchLabel>
+    <Marauder.ProjTypeLabel>Energiewaffe</Marauder.ProjTypeLabel>
+    <Marauder.ResearchDescDisc>Du bist nicht mehr darauf beschränkt, nur einen Marauder zu bauen, und vorhandene Prototypen sind nun kampfbereit.</Marauder.ResearchDescDisc>
 </LanguageData>

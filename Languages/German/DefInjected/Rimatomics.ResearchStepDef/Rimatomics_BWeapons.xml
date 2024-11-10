@@ -65,4 +65,14 @@
     <Obelisk4.description>Baue einen Prototyp des Obelisken. Prototypenwaffen haben ein hohes Ausfallrisiko! Es wird empfohlen, isolierte Stromnetze zu verwenden und ausreichenden Sicherheitsabstand mit feuerfestem Schutz einzuhalten.</Obelisk4.description>
     <Obelisk5.label>Waffendaten sammeln</Obelisk5.label>
     <Obelisk5.description>Führe Tests mit dem Obelisken an beliebigen Zielen durch, um Daten zur Waffenleistung zu sammeln.</Obelisk5.description>
+
+    <!-- Marauder -->
+    <Marauder1.label>Marauder erforschen</Marauder1.label>
+    <Marauder1.description>Ein erfahrener Forscher muss die Entwürfe studieren und verstehen, wie der Marauder funktioniert, bevor wir unser eigenes Modell bauen können.</Marauder1.description>
+    <Marauder2.label>Mit Energiewaffen experimentieren</Marauder2.label>
+    <Marauder2.labeldescription>Forscher müssen Experimente mit der neuen Waffenforschungskonsole durchführen und die Grundlagen für zukünftige Projekte legen. Rimatomics Energiewaffen sind keine Plug-and-Play-Technologie, und die Technologie muss getestet und verstanden werden.\nExperimentierschritte können gefährlich sein.</Marauder2.labeldescription>
+    <Marauder4.label>Marauder-Prototyp bauen</Marauder4.label>
+    <Marauder4.description>Baue einen Prototyp des Marauders. Prototypenwaffen haben ein hohes Ausfallrisiko! Es wird empfohlen, isolierte Stromnetze zu verwenden und ausreichenden Sicherheitsabstand mit feuerfestem Schutz einzuhalten.</Marauder4.description>
+    <Marauder5.label>Waffendaten sammeln</Marauder5.label>
+    <Marauder5.description>Führe Tests mit dem Marauder an beliebigen Zielen durch, um Daten zur Waffenleistung zu sammeln.</Marauder5.description>
 </LanguageData>
