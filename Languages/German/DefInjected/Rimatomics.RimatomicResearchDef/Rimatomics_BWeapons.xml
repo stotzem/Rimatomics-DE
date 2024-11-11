@@ -35,4 +35,10 @@
     <Marauder.ResearchLabel>Marauder</Marauder.ResearchLabel>
     <Marauder.ProjTypeLabel>Energiewaffe</Marauder.ProjTypeLabel>
     <Marauder.ResearchDescDisc>Du bist nicht mehr darauf beschränkt, nur einen Marauder zu bauen, und vorhandene Prototypen sind nun kampfbereit.</Marauder.ResearchDescDisc>
+
+    <!-- Energy Shields -->
+    <EnergyShields.ResearchLabel>Energieschilde</EnergyShields.ResearchLabel>
+    <EnergyShields.ProjTypeLabel>Forschungseinrichtung</EnergyShields.ProjTypeLabel>
+    <EnergyShields.ResearchDesc>Energieschilde, die eine Kombination aus Lasern, Mikrowellen und Lichtbogenentladungen verwenden, um Plasmafelder zu erzeugen, welche physische oder energiebasierte Projektilwaffen abfangen können. Ein Sensor erkennt stoßwellenverursachende Ereignisse, bestimmt Richtung und Entfernung der Stoßwelle relativ zum geschützten Ziel und berechnet einen Abwehrplan. Das System dämpft dann die Stoßwelle durch Reflexion, Brechung, Dispersion, Absorption und Impulsübertragung.</EnergyShields.ResearchDesc>
+    <EnergyShields.ResearchDescDisc>Alle erforderlichen Technologien für den Einsatz von Rimatomics-Energieschilden sind verfügbar, und Schildsysteme können nun gebaut werden.</EnergyShields.ResearchDescDisc>
 </LanguageData>

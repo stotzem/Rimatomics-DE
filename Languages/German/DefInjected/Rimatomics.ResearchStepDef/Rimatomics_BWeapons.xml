@@ -75,4 +75,10 @@
     <Marauder4.description>Baue einen Prototyp des Marauders. Prototypenwaffen haben ein hohes Ausfallrisiko! Es wird empfohlen, isolierte Stromnetze zu verwenden und ausreichenden Sicherheitsabstand mit feuerfestem Schutz einzuhalten.</Marauder4.description>
     <Marauder5.label>Waffendaten sammeln</Marauder5.label>
     <Marauder5.description>Führe Tests mit dem Marauder an beliebigen Zielen durch, um Daten zur Waffenleistung zu sammeln.</Marauder5.description>
+
+    <!-- Energy Shields -->
+    <EnergyShields1.label>Energieschilde erforschen</EnergyShields1.label>
+    <EnergyShields1.description>Ein erfahrener Forscher muss die Funktionsweise der Rimatomics-Energieschilde studieren.</EnergyShields1.description>
+    <EnergyShields2.label>Mit Energiewaffen experimentieren</EnergyShields2.label>
+    <EnergyShields2.description>Forscher müssen praktische Experimente mit der Waffenforschungskonsole durchführen. Rimatomics Energiewaffen sind keine Plug-and-Play-Technologie, und die Technologie muss getestet und verstanden werden.\nExperimentierschritte können gefährlich sein.</EnergyShields2.description>
 </LanguageData>
