@@ -41,4 +41,10 @@
     <RTG.ResearchDesc>Ein Radioisotopen-Thermoelektrischer Generator (RTG) ist ein tragbarer Stromgenerator, der eine Anordnung von Thermoelementen verwendet, um die durch den Zerfall eines geeigneten radioaktiven Materials freigesetzte Wärme mithilfe des Seebeck-Effekts in Elektrizität umzuwandeln. Dieser Generator hat keine beweglichen Teile.</RTG.ResearchDesc>
     <RTG.ResearchDescDisc>RTGs können nach dem Bau wieder umgesetzt werden und liefern konstant 1200 W Leistung. Warnung: Wenn ein RTG beschädigt wird, tritt Strahlung aus!</RTG.ResearchDescDisc>
     <RTG.ResearchLabel>RTG</RTG.ResearchLabel>
+
+    <!-- Liberator -->
+    <ICBM.ResearchLabel>Liberator</ICBM.ResearchLabel>
+    <ICBM.ProjTypeLabel>Superwaffe</ICBM.ProjTypeLabel>
+    <ICBM.ResearchDesc>Der RA-1776b Liberator ist eine eigenständige, komplett integrierte Anlage zur Herstellung und zum Abschuss strategischer Raketen mit einem Magazin für fünf Raketen. Erfordert Plutonium, das aus abgebranntem Kernbrennstoff aufbereitet wurde.</ICBM.ResearchDesc>
+    <ICBM.ResearchDescDisc>Du kannst nun nukleare Waffen lagern.</ICBM.ResearchDescDisc>
 </LanguageData>

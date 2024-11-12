@@ -53,4 +53,20 @@
     <RTG2.label>Plutonium herstellen</RTG2.label>
     <RTG3.description>Ein erfahrener Handwerker muss planen, wie wir die zur Herstellung eines RTG benötigten Komponenten aus unseren verfügbaren Ressourcen herstellen können.</RTG3.description>
     <RTG3.label>Komponenten bewerten</RTG3.label>
+
+    <!-- Liberator -->
+    <ICBM1.label>Nuklearwaffen erforschen</ICBM1.label>
+    <ICBM1.description>Ein erfahrener Forscher muss die Baupläne studieren und lernen, wie Nuklearwaffen funktionieren, bevor wir eigene herstellen können.</ICBM1.description>
+    <ICBM2.label>Plutonium herstellen</ICBM2.label>
+    <ICBM2.description>Stelle Plutonium her, das für die Herstellung einer Bombe benötigt wird. Dazu muss abgebrannter Kernbrennstoff aus einem Reaktor in einem Plutoniumprozessor aufbereitet werden.</ICBM2.description>
+    <ICBM3.label>Mit dem Forschungsreaktor experimentieren</ICBM3.label>
+    <ICBM3.description>Führe Experimente mit dem Forschungsreaktor durch, um ein tieferes Verständnis der Kernphysik zu erlangen, bevor wir mit dem Bau einer Waffe beginnen.</ICBM3.description>
+    <ICBM4.label>Waffenkonsole bauen</ICBM4.label>
+    <ICBM4.description>Baue eine Waffenkonsole. Diese bemannte Zielerfassungscomputer-Konsole ist für alle Energiewaffen erforderlich. Sie vernetzt sich mit Rimatomics-Energiewaffen, die dasselbe Stromnetz teilen, und erkennt Gegner mithilfe der Bord-Sensoren der Waffen sowie des Zielerfassungssystems. Das Hauptdisplay zeigt eine Echtzeit-Verfolgung von Boden- und Luftzielen sowie eine Anzeige der Gesamtkapazität der PPC-Energie im Netz an.</ICBM4.description>
+    <ICBM5.label>Zielerfassungs- und Kommunikationssystem (TACS) bauen</ICBM5.label>
+    <ICBM5.description>Baue ein TACS. Das System verwendet eine Kombination aus Technologien, um Boden- und Luftziele zu verfolgen. Dazu gehören lebende oder robotische Ziele, Projektile wie Mörsergranaten oder Railgun-Sabot-Geschosse sowie die Langstreckenverfolgung ballistischer Raketen.</ICBM5.description>
+    <ICBM6.label>Liberator bauen</ICBM6.label>
+    <ICBM6.description>Baue einen Liberator. Er muss über Stromleitungen mit einer Waffenkonsole verbunden sein, um die Abschusssysteme zu steuern.</ICBM6.description>
+    <ICBM7.label>Waffendaten sammeln</ICBM7.label>
+    <ICBM7.description>Feuere eine strategische Rakete auf ein beliebiges Ziel ab, um Daten zur Waffenleistung zu sammeln. Die Menge der gesammelten Daten hängt vom Erfolg des Abschusses ab. Eine erfolgreiche Detonation auf dem Ziel liefert die maximale Menge an Daten.</ICBM7.description>
 </LanguageData>
