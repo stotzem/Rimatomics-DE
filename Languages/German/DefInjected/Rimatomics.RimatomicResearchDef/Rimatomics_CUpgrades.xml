@@ -12,4 +12,10 @@
     <ATOMProject.ResearchDesc>Das Advanced Threat Detection-Modul (ATOM) ist ein Upgrade-Modul für das TACS. Bei der Installation erhöht sich der Stromverbrauch erheblich, was die Reichweite und Erfassungskraft steigert und die frühzeitige Erkennung potenzieller Angriffe ermöglicht. Luftangriffe bieten nur wenig Vorwarnzeit, und kleinere Gruppen von Bodeneinheiten sind schwer zu erkennen, aber große Bodenstreitkräfte werden leicht erkannt. Fehlalarme sind möglich, wenn das System in Betrieb ist.</ATOMProject.ResearchDesc>
     <ATOMProject.ResearchDescDisc>Du kannst jetzt ATOM-Module an der Rimatomics-Werkbank herstellen. Um sie zu installieren, wähle ein TACS und aktiviere die ATOM-Option.\n\nDas ATOM-Modul muss manuell in jedem neuen TACS installiert werden.</ATOMProject.ResearchDescDisc>
     <ATOMProject.ResearchLabel>ATOM</ATOMProject.ResearchLabel>
+
+    <!-- MEPS -->
+    <ResearchMEPS.ResearchLabel>MEPS</ResearchMEPS.ResearchLabel>
+    <ResearchMEPS.ProjTypeLabel>Upgrade</ResearchMEPS.ProjTypeLabel>
+    <ResearchMEPS.ResearchDesc>Das modulare elektrische Energiesystem (MEPS) ist ein Ultra-Kondensator, der sich mit dem Stromversorgungssystem jeder Rimatomics-Energiewaffe verbinden kann, um ihre maximale Leistung zu steigern. Der zusätzliche Strom kann von jeder Energiewaffe unterschiedlich genutzt werden.</ResearchMEPS.ResearchDesc>
+    <ResearchMEPS.ResearchDescDisc>Du kannst jetzt MEPS-Module an der Rimatomics-Werkbank herstellen. Um sie in eine Rimatomics-Energiewaffe zu installieren, wähle die Waffe aus und aktiviere die MEPS-Schaltfläche.\n\nDas MEPS-Modul muss in jedem neuen Gebäude manuell installiert werden.</ResearchMEPS.ResearchDescDisc>
 </LanguageData>

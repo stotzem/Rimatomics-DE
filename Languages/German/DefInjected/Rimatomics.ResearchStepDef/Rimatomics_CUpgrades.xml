@@ -15,4 +15,12 @@
     <ThreatDetection2.label>Daten über Überfälle sammeln</ThreatDetection2.label>
     <ThreatDetection3.description>Analysiere die gesammelten Daten und finalisiere die Entwürfe für das ATOM.</ThreatDetection3.description>
     <ThreatDetection3.label>Bedrohungserkennung erforschen</ThreatDetection3.label>
+
+    <!-- MEPS -->
+    <MEPS1.label>MEPS erforschen</MEPS1.label>
+    <MEPS1.description>Ein erfahrener Forscher muss eine Reihe von Tests an Rimatomics-Energiewaffen planen, um Daten für die Analyse zu sammeln.</MEPS1.description>
+    <MEPS2.label>Waffendaten sammeln</MEPS2.label>
+    <MEPS2.description>Feuere eine beliebige Rimatomics-Energiewaffe mit maximaler Leistung ab, um Daten zur Waffenleistung zu sammeln.</MEPS2.description>
+    <MEPS3.label>MEPS erforschen</MEPS3.label>
+    <MEPS3.description>Analysiere die gesammelten Daten und finalisiere die Entwürfe für das MEPS-Modul.</MEPS3.description>
 </LanguageData>
