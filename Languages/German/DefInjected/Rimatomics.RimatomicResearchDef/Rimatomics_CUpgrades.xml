@@ -18,4 +18,10 @@
     <ResearchMEPS.ProjTypeLabel>Upgrade</ResearchMEPS.ProjTypeLabel>
     <ResearchMEPS.ResearchDesc>Das modulare elektrische Energiesystem (MEPS) ist ein Ultra-Kondensator, der sich mit dem Stromversorgungssystem jeder Rimatomics-Energiewaffe verbinden kann, um ihre maximale Leistung zu steigern. Der zusätzliche Strom kann von jeder Energiewaffe unterschiedlich genutzt werden.</ResearchMEPS.ResearchDesc>
     <ResearchMEPS.ResearchDescDisc>Du kannst jetzt MEPS-Module an der Rimatomics-Werkbank herstellen. Um sie in eine Rimatomics-Energiewaffe zu installieren, wähle die Waffe aus und aktiviere die MEPS-Schaltfläche.\n\nDas MEPS-Modul muss in jedem neuen Gebäude manuell installiert werden.</ResearchMEPS.ResearchDescDisc>
+
+    <!-- ALC -->
+    <ResearchALC.ResearchLabel>ALC</ResearchALC.ResearchLabel>
+    <ResearchALC.ProjTypeLabel>Upgrade</ResearchALC.ProjTypeLabel>
+    <ResearchALC.ResearchDesc>Der Advanced Liquid Cooler (ALC) ist ein universelles Kühlsystem, das für alle Rimatomics-Energiewaffen entwickelt wurde. Durch die Erhöhung der Kühlkapazität der Waffe und ihrer Stromversorgungssysteme können die Abkühlzeiten verkürzt werden.</ResearchALC.ResearchDesc>
+    <ResearchALC.ResearchDescDisc>Du kannst nun ALC-Module an der Rimatomics-Werkbank herstellen. Um sie in eine Rimatomics-Energiewaffe zu installieren, wähle die Waffe aus und aktiviere die ALC-Funktion.</ResearchALC.ResearchDescDisc>
 </LanguageData>
