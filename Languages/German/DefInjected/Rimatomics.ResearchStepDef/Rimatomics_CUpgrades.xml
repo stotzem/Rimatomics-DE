@@ -39,4 +39,12 @@
     <GuidenceSystem2.description>Feuere eine strategische Rakete auf ein beliebiges Ziel ab, um Daten zu sammeln. Die Menge der gesammelten Daten hängt vom Erfolg des Abschusses ab. Eine erfolgreiche Detonation auf dem Ziel liefert die maximale Menge an Daten.</GuidenceSystem2.description>
     <GuidenceSystem3.label>Lenksystem erforschen</GuidenceSystem3.label>
     <GuidenceSystem3.description>Analysiere die gesammelten Daten und finalisiere die Entwürfe für das Lenksystem.</GuidenceSystem3.description>
+
+    <!-- ERS -->
+    <ERS1.label>ERS erforschen</ERS1.label>
+    <ERS1.description>Ein erfahrener Forscher muss eine Reihe von Tests an Rimatomics-Energiewaffen planen, um Daten für die Analyse zu sammeln.</ERS1.description>
+    <ERS2.label>Waffendaten sammeln</ERS2.label>
+    <ERS2.description>Feuere eine beliebige Rimatomics-Energiewaffe mit voller Leistung ab, um Daten für die Analyse zu sammeln.</ERS2.description>
+    <ERS3.label>ERS erforschen</ERS3.label>
+    <ERS3.description>Analysiere die gesammelten Daten und finalisiere die Entwürfe für das ERS-Modul.</ERS3.description>
 </LanguageData>

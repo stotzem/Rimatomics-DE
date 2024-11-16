@@ -30,4 +30,10 @@
     <ResearchGuidenceSystem.ProjTypeLabel>Upgrade</ResearchGuidenceSystem.ProjTypeLabel>
     <ResearchGuidenceSystem.ResearchDesc>Erhöht die Reichweite und Zuverlässigkeit strategischer Raketen. Teste das System, indem Raketen auf beliebige Ziele abgefeuert werden, um Daten für die Analyse zu sammeln.</ResearchGuidenceSystem.ResearchDesc>
     <ResearchGuidenceSystem.ResearchDescDisc>Die Upgrades für das Lenksystem sind abgeschlossen. Alle strategischen Raketen sind nun automatisch mit diesen Verbesserungen ausgestattet, und die maximale Reichweite ist unbegrenzt.</ResearchGuidenceSystem.ResearchDescDisc>
+
+    <!-- ERS -->
+    <ResearchERS.ResearchLabel>ERS</ResearchERS.ResearchLabel>
+    <ResearchERS.ProjTypeLabel>Upgrade</ResearchERS.ProjTypeLabel>
+    <ResearchERS.ResearchDesc>Das Energy Recovery System (ERS) nutzt eine Kombination aus Energierückgewinnungstechniken, um kinetische und thermische Abfallenergie zu erfassen und diese nach einem Waffeneinsatz zurück in die PPCs (Pulsed Power Container) zu speisen.</ResearchERS.ResearchDesc>
+    <ResearchERS.ResearchDescDisc>Du kannst nun ERS-Module an der Rimatomics-Werkbank herstellen. Um sie in eine Rimatomics-Energiewaffe zu installieren, wähle die Waffe aus und aktiviere die ERS-Funktion.</ResearchERS.ResearchDescDisc>
 </LanguageData>
